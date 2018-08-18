@@ -49,7 +49,7 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 * Create char, start the game
 * enter !commands in chat for full commands list
 * start develop!
-
+* Add in hosts 127.0.0.1 			eu.actual.battle.net and 127.0.0.1 			us.actual.battle.net
 
 ## Stay awhile and listen
 * Join us: https://discord.gg/ES7G8VV
